@@ -3,16 +3,6 @@
 # Explainable AI - Model Explanations
 In this, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
 
-
-As a dataset used:
-
-https://www.kaggle.com/datasets/jockeroika/life-style-data
-
-Based on all the features of the data we try to predict calorie consumption.
-
-
-## Report
-
 ## 1. Project Overview
 
 The goal of this project is to **explain machine learning models** using multiple explainability approaches.
